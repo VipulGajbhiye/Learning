@@ -2,4 +2,6 @@ Welcome to git learning....
 
 Hello world!!!
 
-check to fix bug...
+check to fix bug1.
+
+change to fix bug2.
