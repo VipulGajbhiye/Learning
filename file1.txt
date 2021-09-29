@@ -2,10 +2,12 @@ Welcome to git learning....
 
 Hello world!!!
 
-change: to fix bug1.
+change 1: to fix bug1.
 
-change: by teammates for WI2 on master.
+change 2: by teammates for WI2 on master.
 
-change to fix bug2.
+change 3: to fix bug2.
 
-change: by teammate for WI3 to check rebase
+change 4: by teammate for WI3 to check rebase
+
+change 5: for CR2 on remote master by teammate, with conflict rebase.
